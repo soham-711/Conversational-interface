@@ -1,6 +1,16 @@
 # Conversational-interface
-## this is a hackathon competetion code
-- primarily based on HTML CSS JS our goal is to make shopping website a little more easy to use and 
+
+
+>this is a hackathon competetion code
+primarily based on HTML CSS JS our goal is to make shopping website a little more easy to use.
+<br>
+---
+### authors
+1. Jit Debnath
+2. Ayyan ali
+3. Ronojoy Nandi
+4. Soham Biswas
+
 ---
 - DESCRIPTION OF THE PROBLEM STATEMENT:
 
@@ -10,6 +20,7 @@ Additionally, non-tech savvy users find it difficult to navigate through non-int
 The objective is to create a conversational interface that guides non-tech savvy buyers through the online shopping experience while also providing the immersive experience that provides a real world “shopping feel”. Immersive experience would be useful for fashion shopping where the buyer gets to “try out” whatever they’re trying to buy.
 The conversational interface should provide interaction through natural language speech / text & similar types of intuitive interfaces.
 
+---
 - SOLUTION EXPECTED & DELIVERABLES :
   
 Showcase a solution that provides a conversational interface that meets the requirements above.
