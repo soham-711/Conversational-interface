@@ -1,24 +1,30 @@
-.header{
-    display: flex;
-    justify-content: space-between; 
-    text-align: center;
-    flex-wrap: nowrap;   
-    
-}
-.profile,.button1,.button2,.button3{
-    width:auto;
-    height:50px;
-    border: 2px solid black;
-    border-radius: 5px; /* Rounded corners */
-    cursor: pointer;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-button {
-    background-color: #ffffff; 
-    border: none; 
-    color: rgb(0, 0, 0);
-    text-align: center;
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: right;
+}
+
+header a {
+    color: #fff;
     text-decoration: none;
-    font-size: 16px;
-  }
+    margin: 0 10px;
+}
+
+#search,#cart,#profile,#login 
+{
+            display: flex;
+            align-items: center;
+            margin-right: 20px;
+}   
+
+
   
